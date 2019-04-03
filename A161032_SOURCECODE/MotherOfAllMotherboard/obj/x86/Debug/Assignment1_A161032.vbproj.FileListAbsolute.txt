@@ -1,0 +1,52 @@
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.xml
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.frm_customerdetails_a161032.resources
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.frm_orders_a161032.resources
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.frm_products_a161032.resources
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.frm_staffdetails_a161032.resources
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.Resources.resources
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1_A161032.vbproj.GenerateResource.Cache
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.xml
+c:\users\awesomekllr\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.frm_main_menu.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.frm_splash_screen.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.frm_orderlist_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\bin\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.frm_customerdetails_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.frm_main_menu.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.frm_orderlist_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.frm_orders_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.frm_products_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.frm_splash_screen.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.frm_staffdetails_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.Resources.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1_A161032.vbproj.GenerateResource.Cache
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\A161032_Mother_Of_All_Motherboards\Assignment1\obj\x86\Debug\Assignment1.frm_insertproducts_a161032.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_customerdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_main_menu.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_orderlist_a161032.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_orders_a161032.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_productlist_a161032.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_products_a161032.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_splash_screen.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_staffdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.Resources.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1_A161032.vbproj.GenerateResource.Cache
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\bin\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_insertproduct_a161032.resources
+C:\Users\Awesomekllr\Desktop\Assigment 2\Assignment1\obj\x86\Debug\Assignment1.frm_updateproducts_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.pdb

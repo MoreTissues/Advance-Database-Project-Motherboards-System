@@ -1,0 +1,69 @@
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\Assignment3_A161032.vbproj.GenerateResource.Cache
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_addorder_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_customerdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertcustomer_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertproduct_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertstaff_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_invoice_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_main_menu.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_catalog_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_products_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_splash_screen.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_staffdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updatecustomer_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updateproducts_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updatestaff_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.Resources.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.pdb
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.pdb
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.exe
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.xml
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.pdb
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.exe
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.pdb
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.xml
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_addorder_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_customerdetails_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertcustomer_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertproduct_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertstaff_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_invoice_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_main_menu.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_catalog_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_products_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_splash_screen.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_staffdetails_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updatecustomer_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updateproducts_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updatestaff_a161032.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.Resources.resources
+C:\Users\Awesomekllr\Documents\Visual Studio 2010\Projects\Assignment 3 (A161032)\MotherOfAllMotherboard\obj\x86\Debug\Assignment3_A161032.vbproj.GenerateResource.Cache
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\Mother Of All Motherboard.pdb
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.pdb
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\bin\Debug\Mother Of All Motherboard.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_addorder_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_customerdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertcustomer_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertproduct_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_insertstaff_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_invoice_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_main_menu.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_catalog_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_products_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_splash_screen.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_staffdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updatecustomer_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updateproducts_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.frm_updatestaff_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\MotherOfAllMotherboard.Resources.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\A161032_SOURCECODE\MotherOfAllMotherboard\obj\x86\Debug\Assignment3_A161032.vbproj.GenerateResource.Cache

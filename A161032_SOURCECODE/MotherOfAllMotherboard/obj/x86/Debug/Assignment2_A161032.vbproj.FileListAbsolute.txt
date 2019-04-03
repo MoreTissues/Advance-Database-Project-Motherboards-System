@@ -1,0 +1,46 @@
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\bin\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_customerdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_insertproduct_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_main_menu.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_orderlist_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_orders_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_products_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_splash_screen.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_staffdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_updateproducts_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.Resources.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment2_A161032.vbproj.GenerateResource.Cache
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_insertstaff_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_catalog_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_insertcustomer_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_updatestaff_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 2\Assignment1\obj\x86\Debug\Assignment1.frm_updatecustomer_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\bin\Debug\Assignment1.xml
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_customerdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_insertcustomer_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_insertproduct_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_insertstaff_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_main_menu.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_orderlist_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_orders_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_catalog_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_products_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_splash_screen.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_staffdetails_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_updatecustomer_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_updateproducts_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_updatestaff_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.Resources.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment2_A161032.vbproj.GenerateResource.Cache
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_addorder_a161032.resources
+C:\Users\Awesomekllr\Desktop\Uni Files\Semester 3\Advance Database\Assignment 3 (A161032)\Assignment1\obj\x86\Debug\Assignment1.frm_invoice_a161032.resources
